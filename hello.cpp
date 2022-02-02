@@ -1,0 +1,7 @@
+//Hello World program
+
+int main() {
+
+  std::cout << "Hello World!\n";
+
+}
