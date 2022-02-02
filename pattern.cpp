@@ -1,5 +1,4 @@
 //Print pattern
-
 #include <iostream>
 
 int main()
