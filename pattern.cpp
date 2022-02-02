@@ -4,7 +4,7 @@
 
 int main()
 {
-
+  std::cout << "Print pattern below:\n";
   std::cout << "      1\n";
   std::cout << "    2 3\n";
   std::cout << "  4 5 6\n";
