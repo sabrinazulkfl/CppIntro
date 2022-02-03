@@ -2,3 +2,4 @@ The while loop looks very similar to an if statement. And just like an if statem
 
 However, the difference is that the while loop will continue to execute the code inside of it, over and over again, as long as the condition is true.
 
+In other words, instead of executing if something is true, it executes while that thing is true.
