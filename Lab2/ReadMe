@@ -1,0 +1,12 @@
+A variable represents a particular piece of your computer’s memory that has been set aside for you to use to store, retrieve, and manipulate data.
+
+C++ basic data types include:
+int: integers
+double: floating-point numbers
+char: individual characters
+string: sequence of characters
+bool: true/false
+
+Single equal sign = indicates assignment, not equality in the mathematical sense.
+
+cin is how to receive input from the user.
