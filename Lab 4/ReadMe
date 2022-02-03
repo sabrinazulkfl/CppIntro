@@ -1,0 +1,7 @@
+The result of the operation of a logical operator is a bool value of either true or false.
+
+There are three logical operators that we will cover:
+
+&&: the and logical operator
+||: the or logical operator
+!: the not logical operator
